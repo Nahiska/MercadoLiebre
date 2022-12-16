@@ -45,6 +45,7 @@ header div.burger-menu {
     padding-bottom: 25px;
     color: white;
 }
+
 /* GENERALES */
 
 * {
@@ -60,4 +61,8 @@ a {
 
 li {
     list-style: none;
+}
+
+ul {
+    padding: 10px;
 }
