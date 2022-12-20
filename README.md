@@ -1,9 +1,9 @@
 # Proyecto integrador individual - MercadoLiebre - Digital House
 
-Desafio frontend - Agregando Estilos
+Desafío frontend - Agregando Estilos
 
 
-Previews del desafio finalizado
+Previews del desafío finalizado
 
 HEADER:
 
