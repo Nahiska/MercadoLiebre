@@ -7,7 +7,7 @@ Preview del desafio finalizado
 
 HEADER:
 
-![image 4](https://user-images.githubusercontent.com/118026671/208577472-5ccf10bf-2179-4731-b932-c00d0edf3220.png)
+![image 4](https://user-images.githubusercontent.com/118026671/208585389-25aba500-1c7f-4ec4-b900-307968a6d51e.png)
 
 FOOTER:
 
