@@ -3,7 +3,7 @@
 Desafio frontend - Agregando Estilos
 
 
-Preview del desafio finalizado
+Previews del desafio finalizado
 
 HEADER:
 
